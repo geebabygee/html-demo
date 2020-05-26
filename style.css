@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Julius+Sans+One&family=Monoton&family=Philosopher&display=swap');
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: rgb(230,230,230); /*close your style rules!!!! with a ;*/
+  color: rgba(0,0,0,0.7);
+
+}
+
+h1, h2 {
+  /*font-family: 'Monoton', cursive;*/
+  font-family: 'Staatliches', sans-serif;
+  color: #d63447;
+  letter-spacing: 1px;
+}
+
+a {
+  text-decoration: none;
+  color: #27496d;
+}
+
+a:hover {
+  color: #004346
+}
+
+
+.card-white {
+  background: white;
+  padding: 24px;
+  /*margin: 70px;*/
+  width: 600px;
+  margin: 30px auto;
+  box-shadow: 0 0px 15px rgba(211, 189, 189);
+  border-radius: 4px;
+  text-align: center;
+}
+
+.header {
+  background-color: transparent;
+  box-shadow: none;
+  margin-bottom: 20px;
+}
+.img-circle {
+  width: 150px;
+  /*border: 5px solid white;*/
+  border-radius: 50%;
+}
+
+.btn-green {
+  background: #27496d;
+  padding: 8px 24px;
+  border-radius: 4px;
+  color: white;
+  margin: 15px;
+  display: inline-block;
+}
+
+.btn-green:hover {
+  color: white;
+  background:#004346;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;  /*stay inline but behave like a block, ie: keep margin and padding on all sides;*/
+}
+
+.social-media {
+  font-size: 40px;
+  /*margin: 4px 5px; top and bottom + right and left*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
